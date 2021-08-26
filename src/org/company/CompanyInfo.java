@@ -11,5 +11,6 @@ public static void main(String[] args) {
 	CompanyInfo e = new CompanyInfo();
 		e.companyName("chemito info tech", "chennai", 60099);
 	e.CompanyName("chemito93@gamil.in", 154646,9494994945l);
+	e.CompanyName("hcl", 5686, 8870892437l);
 }
 }
